@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sixiaozheng
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning 3D Object Detection 
-- 💞️ I’m looking to collaborate on 3D Object Detection
+- 🌱 I’m currently learning Object Detection and Semantic Segementation
+- 💞️ I’m looking to collaborate on Object Detection and Semantic Segementation
 - 📫 How to reach me : sxzheng18@outlook.com
 
 <!---
